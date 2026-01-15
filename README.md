@@ -16,7 +16,7 @@ The analysis was performed in R using a robust bioinformatics pipeline:
   Data Visualization: Generated a Volcano Plot for global expression trends and a Heatmap for the Top 50 significant genes using Z-score scaling.
 
 
-Technical Challenges Faced (Problem Solving) 🛠️
+Technical Challenges Faced (Problem Solving) 
 This project was a significant learning journey that involved overcoming several technical hurdles:
 
    Data Integrity: Navigated through the raw dataset to handle missing values (NAs) and ensured the final results were statistically significant and biologically meaningful.
@@ -47,6 +47,4 @@ LinkedIn: https://www.linkedin.com/in/farah-elemam-107969323
 
 
 
-I'm passionate about the intersection of Data Science and Healthcare. Feel free to reach out!
 
-    LinkedIn: [Add your LinkedIn profile link here]

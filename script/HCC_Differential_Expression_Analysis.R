@@ -1,6 +1,6 @@
 ################################################################################
 # Project: Differential Gene Expression Analysis (HCC vs Normal)
-# Author: Farah
+# Author: Waleed Tariq
 # Dataset: GSE112790
 ################################################################################
 

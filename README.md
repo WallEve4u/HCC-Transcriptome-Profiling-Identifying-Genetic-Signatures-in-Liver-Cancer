@@ -1,5 +1,6 @@
 
-Author: Farah Mohamed Elemam > Role:Biochemist & Bioinformatics Researcher
+Author: Waleed Tariq
+Undergraduate Bioinformation
 
 Transcriptomic Profiling of Hepatocellular Carcinoma (GSE112790)
 This project focuses on identifying the molecular signatures and differentially expressed genes (DEGs) in Hepatocellular Carcinoma (HCC).
@@ -47,7 +48,7 @@ Tools & Packages
 
 
 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/farah-elemam-107969323
+LinkedIn: https://www.linkedin.com/in/waleed-tariq-978b91381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 

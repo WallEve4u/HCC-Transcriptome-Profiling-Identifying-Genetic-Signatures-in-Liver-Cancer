@@ -1,6 +1,6 @@
 
 Author: Waleed Tariq
-Undergraduate Bioinformation
+Undergraduate Bioinformatition
 
 Transcriptomic Profiling of Hepatocellular Carcinoma (GSE112790)
 This project focuses on identifying the molecular signatures and differentially expressed genes (DEGs) in Hepatocellular Carcinoma (HCC).

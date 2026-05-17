@@ -1,6 +1,7 @@
 # HCC-Transcriptome-Profiling-Identifying-Genetic-Signatures-in-Liver-Cancer
 
 Author: Waleed Tariq
+
 Undergraduate Bioinformatician
 Transcriptomic Profiling of Hepatocellular Carcinoma (GSE112790)
 This project focuses on identifying the molecular signatures and differentially expressed genes (DEGs) in Hepatocellular Carcinoma (HCC).

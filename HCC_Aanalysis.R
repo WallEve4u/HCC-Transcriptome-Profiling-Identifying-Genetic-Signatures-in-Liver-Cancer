@@ -27,10 +27,10 @@ group <- ifelse(
 )
 group <- factor(group)
 
-# Sanity check — run this to confirm groups look correct before proceeding
+# Sanity check
 print(table(group))
 
-#--- 3. Statistical Analysis (Differential Expression Analysis) ---
+#--- 3. Differential Expression Analysis ---
 design <- model.matrix(~0 + group)
 colnames(design) <- levels(group)
 
@@ -43,7 +43,7 @@ fit2 <- eBayes(fit2)
 sigGenes <- topTable(fit2, number = Inf, p.value = 0.05, lfc = 1)
 cat("Number of significant DEGs found:", nrow(sigGenes), "\n")
 
-#--- 4. Biological Annotation (Probe ID → Gene Symbol) ---
+#--- 4. Probe ID → Gene Symbol ---
 my_probes <- rownames(sigGenes)
 geneMap   <- select(hgu133plus2.db,
                     keys    = my_probes,
